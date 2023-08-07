@@ -1,7 +1,7 @@
 # New York Citibikes
 Data analysis project for Citibikes, an online bike rental company.
 
-# Objective
+# Objective 
 The objective of this project was to identify patterns in the consumption of this bicycle service, such as travel time, most popular stations and user profile
 
 # Data
